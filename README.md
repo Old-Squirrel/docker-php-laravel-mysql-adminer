@@ -8,6 +8,7 @@ docker-compose up
 Rebuild:
 
 docker-compose up --build
+
 How to start new laravel project
 Edit .env file, or leave default:
 
